@@ -1,2 +1,2 @@
-# Meu Primeiro-rep-aluno github
+# Primeiro-rep-aluno github
 Aprendendo javascript
